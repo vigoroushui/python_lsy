@@ -12,7 +12,7 @@ IO中的同步和异步可以用买汉堡等待为例来解释。
 JSON表示的对象就是标准的JavaScript语言的对象
 
 | JSON类型 | Python类型 |
---|:--:|:--
+--|:--:|--:
 | {} | dict |
 | [] | list |
 | "string" | str |
